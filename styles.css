@@ -22,6 +22,7 @@ h1 {
   color: #fff;
   position: absolute;
   margin: auto;
+  font-size: 24px;
   font-family: "Comic Sans MS";
   z-index: 2;
 }
@@ -37,7 +38,7 @@ p {
 img {
   top: 120px;
   padding: 20px;
-  height: 420px;
+  height: 369px;
   width: auto;
   position: absolute;
   z-index: 2;
