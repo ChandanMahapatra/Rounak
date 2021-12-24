@@ -1,0 +1,45 @@
+html {
+  background: black;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+canvas {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+}
+
+h1 {
+  padding: 20px;
+  color: #fff;
+  position: absolute;
+  margin: auto;
+  font-family: "Comic Sans MS";
+  z-index: 2;
+}
+
+p {
+  top: 32px;
+  padding: 20px;
+  color: #fff;
+  font-family: "Comic Sans MS";
+  position: absolute;
+  z-index: 2;
+}
+
+img {
+  top: 100px;
+  padding: 20px;
+  height: 420px;
+  width: auto;
+  position: absolute;
+  z-index: 2;
+}
