@@ -30,15 +30,23 @@ p {
   top: 32px;
   padding: 20px;
   color: #fff;
-  font-family: "Comic Sans MS";
   position: absolute;
+  font-family: "Comic Sans MS";
   z-index: 2;
 }
 
 img {
-  top: 100px;
+  top: 120px;
   padding: 20px;
   height: 420px;
+  width: auto;
+  position: absolute;
+  z-index: 2;
+}
+
+audio {
+  top: 70px;
+  padding: 20px;
   width: auto;
   position: absolute;
   z-index: 2;
